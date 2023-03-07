@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+
+
+body {
+    background-color: lightgrey;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+   }
+   h1{
+    color: brown;
+    background-color: rgb(154, 146, 146);
+   }
+   h2{
+    color: slategray;
+   } 
+   p{
+    text-align: justify;
+    font-size: 16px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   }
